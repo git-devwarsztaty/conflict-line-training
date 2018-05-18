@@ -1,4 +1,6 @@
+using System.Drawing;
 
 function foo(){
     "hello world";
+    "Witaj swiecie"
 }
