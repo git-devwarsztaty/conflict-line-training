@@ -1,6 +1,7 @@
 # Conflict-line-training
 
-Jak rozwiązywać konflikty w pliku (za pomocą kdiff3)
+Jak rozwiązywać konflikty w pliku (za pomocą kdiff3 - instrukcja konfiguracji https://krzysztofmorcinek.wordpress.com/2018/05/17/wstepna-konfiguracja-gita/#kdiff3)
+
 
 ## Kroki
 
