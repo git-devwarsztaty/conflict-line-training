@@ -1,3 +1,5 @@
+Strona wchodzi w skład szkolenia [Git warsztaty](https://www.gitwarsztaty.pl/prezentacja/)
+
 # Conflict-line-training
 
 Jak rozwiązywać konflikty w pliku (za pomocą kdiff3 - instrukcja konfiguracji https://krzysztofmorcinek.wordpress.com/2018/05/17/wstepna-konfiguracja-gita/#kdiff3)
